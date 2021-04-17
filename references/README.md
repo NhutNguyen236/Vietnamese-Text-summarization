@@ -10,3 +10,4 @@
 ## My links
 - https://sites.google.com/site/trangmonhocitc/text-summarization
 - [Researchgate dataset](https://www.researchgate.net/publication/339754542_VNDS_A_Vietnamese_Dataset_for_Summarization)
+- [Neural Network and deep learning by Michael Nielsen](http://neuralnetworksanddeeplearning.com/chap1.html)
